@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - master
-      - dev
+      - dev 
 env:
   MONGODB_DB_NAME: github-actions-demo
 jobs:
